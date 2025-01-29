@@ -24,7 +24,7 @@ pip install pika
 
 ### **2️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/yourusername/rabbitmq-connector.git
+git clone https://github.com/arseneishimwe11/rabbitmq-connector.git
 cd rabbitmq-connector
 ```
 
