@@ -1,0 +1,10 @@
+README.md
+setup.py
+rabbitmq_connector/__init__.py
+rabbitmq_connector/consumer.py
+rabbitmq_connector/producer.py
+rabbitmq_connector.egg-info/PKG-INFO
+rabbitmq_connector.egg-info/SOURCES.txt
+rabbitmq_connector.egg-info/dependency_links.txt
+rabbitmq_connector.egg-info/requires.txt
+rabbitmq_connector.egg-info/top_level.txt

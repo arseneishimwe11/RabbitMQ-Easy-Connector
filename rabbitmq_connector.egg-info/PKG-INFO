@@ -1,0 +1,5 @@
+Metadata-Version: 2.2
+Name: rabbitmq_connector
+Version: 0.1
+Requires-Dist: pika
+Dynamic: requires-dist
