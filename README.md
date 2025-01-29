@@ -112,9 +112,9 @@ docker run rabbitmq-connector
 ```
 
 ## 💡 Future Enhancements ##
--🔹 Add async support using aio_pika
--🔹 Add error handling for robust messaging
--🔹 Provide integration with Django/FastAPI/Flask
+- Add async support using aio_pika
+- Add error handling for robust messaging
+- Provide integration with Django/FastAPI/Flask
 
 ## 🤝 Contributing ##
 - Fork the repo & clone it
