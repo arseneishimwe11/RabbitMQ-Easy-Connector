@@ -24,7 +24,7 @@ pip install pika
 
 ### **2️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/yourusername/rabbitmq-connector.git
+git clone https://github.com/arseneishimwe11/rabbitmq-connector.git
 cd rabbitmq-connector
 ```
 
@@ -112,9 +112,9 @@ docker run rabbitmq-connector
 ```
 
 ## 💡 Future Enhancements ##
-🔹 Add async support using aio_pika
-🔹 Add error handling for robust messaging
-🔹 Provide integration with Django/FastAPI/Flask
+- Add async support using aio_pika
+- Add error handling for robust messaging
+- Provide integration with Django/FastAPI/Flask
 
 ## 🤝 Contributing ##
 - Fork the repo & clone it
